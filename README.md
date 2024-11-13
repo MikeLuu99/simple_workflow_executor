@@ -127,15 +127,3 @@ ExecutionPlan {
 }
 
 ```
-
-## Submission
-
-Your solution should include a comparison of the two approaches based on:
-
-1. Code complexity and maintainability
-2. Testing approach and coverage
-3. Error handling capabilities
-4. Performance characteristics
-5. Scalability considerations
-
-## Good Luck!
